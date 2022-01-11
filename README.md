@@ -16,7 +16,9 @@ This is an android app that facilatites user authentication, email verification 
 
 ## Screenshots
     
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](login.png?raw=true "Title")
+
+![Alt text](image.png?raw=true "Title")
 
 
 
