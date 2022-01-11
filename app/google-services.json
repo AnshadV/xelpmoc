@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059213266060",
+    "project_id": "xelpmoc-d425b",
+    "storage_bucket": "xelpmoc-d425b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059213266060:android:4820dfb5ea6ad6ce353fa9",
+        "android_client_info": {
+          "package_name": "com.example.xelpmoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059213266060-9p0f7ddhl1oga6ltdpdv8jhv5c2d6a56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ65wavF00oHFUYWvnK5L4xvrZuW9gLq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059213266060-9p0f7ddhl1oga6ltdpdv8jhv5c2d6a56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
