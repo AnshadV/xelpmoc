@@ -11,4 +11,6 @@
     <string name="login_failed">"Login failed"</string>
     <string name="account_text">Don\'t have an account?</string>
     <string name="already_have_an_account">Already have an account</string>
+    <string name="register">Don\'t have an account? <b>Register</b></string>
+    <string name="login">Already have an account <b>Login</b></string>
 </resources>
